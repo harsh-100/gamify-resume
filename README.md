@@ -32,3 +32,4 @@ A downloadable resume / CV. Players who finish the journey get the file.
 See `phase-planning/` for the 8 phase documents. Work them in order — each is self-contained enough to be a focused work session.
 # gamify-resume
 # gamify-resume
+# gamify-resume
