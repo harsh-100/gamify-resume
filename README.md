@@ -1,5 +1,7 @@
 # Gamify — Harsh's Dev Quest
 
+Play here 👉 https://game.harshagarwal.dev/
+
 A side-scrolling pixel-art platformer that walks visitors through Harsh Agarwal's journey from a curious B.Tech student in Jaipur to a Full-Stack & Power Platform developer pursuing his Master's in Dortmund, Germany. Each level is a chapter of the journey. Finishing the game unlocks a downloadable resume.
 
 This folder is a **separate app** from the parent Next.js portfolio. It will be lifted out of this repo and deployed independently to `gamify.harshagarwal.dev`.
